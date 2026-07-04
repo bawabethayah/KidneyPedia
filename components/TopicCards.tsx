@@ -1,5 +1,5 @@
 // TopicCards component
-import { topics } from "@/data/siteData";
+import { topics } from "../data/siteData";
 
 export default function TopicCards() {
   return (
