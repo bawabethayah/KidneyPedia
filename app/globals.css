@@ -669,3 +669,11 @@ a {
     grid-template-columns: 1fr;
   }
 }
+.patientHero {
+  background: linear-gradient(135deg, #10a6a6, #55b86b);
+}
+
+.patientCard a {
+  color: var(--teal);
+  font-weight: 800;
+}
