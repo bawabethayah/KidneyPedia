@@ -1,5 +1,4 @@
-import { languages } from "@/data/siteData";
-
+import { languages } from "../data/siteData";
 export default function Navbar() {
   return (
     <header className="navbar">
