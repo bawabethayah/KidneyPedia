@@ -1,3 +1,4 @@
+// TopicCards component
 import { topics } from "@/data/siteData";
 
 export default function TopicCards() {
