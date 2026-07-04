@@ -18,8 +18,15 @@ export default function Hero() {
         </div>
       </div>
 
-      <div className="heroGraphic">
-        <div className="kidneyCircle">🩺</div>
+      <div className="heroGraphic" aria-hidden="true">
+        <div className="medicalOrbit">
+          <div className="kidneys">
+            <span className="kidney leftKidney"></span>
+            <span className="kidney rightKidney"></span>
+            <span className="ureter"></span>
+          </div>
+          <div className="pulseLine"></div>
+        </div>
       </div>
 
       <div className="heroList">
