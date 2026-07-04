@@ -19,7 +19,7 @@ export default function Navbar() {
 
       <nav>
         <a className="active" href="/">Home</a>
-        <a href="#physicians">Physicians</a>
+       <a href="/physicians">Physicians</a>
         <a href="#patients">Patients</a>
         <a href="#infographics">Infographics</a>
         <a href="#resources">Resources</a>
